@@ -1093,6 +1093,16 @@ gameInfos = [
     }
   },
   {
+    "name": "raiga",
+    "fullName": "Raiga - Strato Fighter (Japan)",
+    "letter": "r",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "rtype",
     "fullName": "R-Type (World)",
     "letter": "r",
@@ -1307,6 +1317,16 @@ gameInfos = [
     "fullName": "Super Puzzle Fighter II Turbo (USA 960620 Phoenix Edition) (bootleg)",
     "letter": "s",
     "order": ["score", "name", "level", "char"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "stratof",
+    "fullName": "Raiga - Strato Fighter (US)",
+    "letter": "s",
+    "order": ["score", "name"],
     "sort": {
       "by": "score",
       "order": "desc"

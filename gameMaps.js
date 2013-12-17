@@ -598,6 +598,19 @@ gameMaps = [
   },
   {
     "name": [
+      "raiga",
+      "stratof"
+    ],
+    "structure": {
+      "blocks": 10,
+      "fields": [
+        {"name": "score", "bytes": 4, "format": "asIs"},
+        {"name": "name", "bytes": 10, "format": "ascii"}
+      ]
+    }
+  },
+  {
+    "name": [
       "rtype",
       "rtypeb",
       "rtypej",
