@@ -374,6 +374,22 @@ gameMaps = [
   },
   {
     "name": [
+      "hsf2",
+      "hsf2a",
+      "hsf2d",
+      "hsf2j"
+    ],
+    "structure": {
+      "blocks": 5,
+      "fields": [
+        {"name": "score", "bytes": 4, "format": "asIs"},
+        {"name": "name", "bytes": 3, "format": "ascii"},
+        {"name": "trash", "bytes":1}
+      ]
+    }
+  },
+  {
+    "name": [
       "inthunt",
       "inthuntu",
       "kaiteids"

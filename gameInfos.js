@@ -742,6 +742,47 @@ gameInfos = [
     }
   },
   {
+    "name": "hsf2",
+    "fullName": "Hyper Street Fighter 2: The Anniversary Edition (USA 040202",
+    "letter": "h",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "hsf2a",
+    "fullName": "Hyper Street Fighter 2: The Anniversary Edition (Asia 040202)",
+    "letter": "h",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "hsf2d",
+    "fullName": "Hyper Street Fighter II: The Anniversary Edition (Asia 040202 Phoenix Edition) (bootleg)",
+    "letter": "h",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "hsf2j",
+    "fullName": "Hyper Street Fighter 2: The Anniversary Edition (Japan 031222)",
+    "letter": "h",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+
+  {
     "name": "inthunt",
     "fullName": "In The Hunt (World)",
     "letter": "i",
