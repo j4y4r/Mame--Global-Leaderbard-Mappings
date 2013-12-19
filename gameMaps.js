@@ -233,6 +233,26 @@ gameMaps = [
   },
   {
     "name": [
+      "cninja",
+      "cninja1",
+      "cninjaa",
+      "cninjabl",
+      "cninjabl2",
+      "cninjau",
+      "joemac"
+    ],
+    "structure": {
+      "skip": 15,
+      "blocks": 20,
+      "fields": [
+        {"name": "name", "bytes": 3, "format": "ascii"},
+        {"name": "trash", "bytes": 2},
+        {"name": "score", "bytes": 3, "format": "asIs"}
+      ]
+    }
+  },
+  {
+    "name": [
       "dino",
       "dinoj",
       "dinou",

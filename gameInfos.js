@@ -452,6 +452,66 @@ gameInfos = [
     }
   },
   {
+    "name": "cninja",
+    "fullName": "Caveman Ninja (World ver 4)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "cninja1",
+    "fullName": "Caveman Ninja (World ver 1)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "cninjaa",
+    "fullName": "Caveman Ninja (alternate)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "cninjabl",
+    "fullName": "Caveman Ninja (bootleg)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "cninjabl2",
+    "fullName": "Caveman Ninja (bootleg, old)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "cninjau",
+    "fullName": "Caveman Ninja (US ver 4)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "dino",
     "fullName": "Cadillacs and Dinosaurs (World 930201)",
     "letter": "c",
@@ -806,6 +866,16 @@ gameInfos = [
     "name": "jjack",
     "fullName": "Jumping Jack",
     "letter": "j",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "joemac",
+    "fullName": "Tatakae Genshizin Joe & Mac (Japan ver 1)",
+    "letter": "c",
     "order": ["score", "name"],
     "sort": {
       "by": "score",
