@@ -1034,6 +1034,16 @@ gameInfos = [
     }
   },
   {
+    "name": "mt_shnbi",
+    "fullName": "Shinobi (Mega-Tech, SMS based)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "mt_orun",
     "fullName": "Out Run (Mega-Tech, SMS based)",
     "letter": "o",
@@ -1328,6 +1338,86 @@ gameInfos = [
     "fullName": "Pac Mania (Mazooma) (Scorpion 4) (set 2)",
     "letter": "p",
     "order": ["score", "name", "stage"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinfz",
+    "fullName": "Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinobi",
+    "fullName": "Shinobi (set 6, System 16A, unprotected)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinobi1",
+    "fullName": "Shinobi (set 1, System 16A, FD1094 317-0050)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinobi2",
+    "fullName": "Shinobi (set 2, System 16B, FD1094 317-0049)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinobi3",
+    "fullName": "Shinobi (set 3, System 16B, MC-8123B 317-0054)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinobi4",
+    "fullName": "Shinobi (set 4, System 16B, MC-8123B 317-0054)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinobi5",
+    "fullName": "Shinobi (set 5, System 16B, unprotected)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "shinoblb",
+    "fullName": "Shinobi (Beta bootleg)",
+    "letter": "s",
+    "order": ["score", "name", "coin"],
     "sort": {
       "by": "score",
       "order": "desc"

@@ -698,6 +698,27 @@ gameMaps = [
   },
   {
     "name": [
+      "mt_shnbi",
+      "shinfz",
+      "shinobi",
+      "shinobi1",
+      "shinobi2",
+      "shinobi3",
+      "shinobi4",
+      "shinobi5",
+      "shinoblb"
+    ],
+    "structure": {
+      "blocks": 20,
+      "fields": [
+        {"name": "score", "bytes": 4, "format": "asIs"},
+        {"name": "coin", "bytes": 1, "format": "asIs"},
+        {"name": "name", "bytes": 3, "format": "ascii"}
+      ]
+    }
+  },
+  {
+    "name": [
       "simpsons"
     ],
     "structure": {
