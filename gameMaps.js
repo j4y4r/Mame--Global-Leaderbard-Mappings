@@ -253,6 +253,26 @@ gameMaps = [
   },
   {
     "name": [
+      "dangar",
+      "dangar2",
+      "dangarb"
+    ],
+    "structure": {
+      "blocks": 10,
+      "fields": [
+        {"name": "score", "bytes": 3, "format": "asIs": "settings": {"append": "00"}},
+        {"name": "name", "bytes": 3, "format": "ascii", "settings": {
+           "special": {
+             "3F": "."
+            }
+          }
+        },
+        {"name": "trash", "bytes": 7}
+      ]
+    }
+  },
+  {
+    "name": [
       "dino",
       "dinoj",
       "dinou",

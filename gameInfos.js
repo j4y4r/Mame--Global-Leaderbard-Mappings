@@ -512,6 +512,36 @@ gameInfos = [
     }
   },
   {
+    "name": "dangar",
+    "fullName": "Dangar - Ufo Robo (12/1/1986)",
+    "letter": "d",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "asc"
+    }
+  },
+  {
+    "name": "dangar2",
+    "fullName": "Dangar - Ufo Robo (9/26/1986)",
+    "letter": "d",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "asc"
+    }
+  },
+  {
+    "name": "dangarb",
+    "fullName": "Dangar - Ufo Robo (bootleg)",
+    "letter": "d",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "asc"
+    }
+  },
+  {
     "name": "dino",
     "fullName": "Cadillacs and Dinosaurs (World 930201)",
     "letter": "c",
@@ -875,7 +905,7 @@ gameInfos = [
   {
     "name": "joemac",
     "fullName": "Tatakae Genshizin Joe & Mac (Japan ver 1)",
-    "letter": "c",
+    "letter": "j",
     "order": ["score", "name"],
     "sort": {
       "by": "score",
