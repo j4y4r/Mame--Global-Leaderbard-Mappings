@@ -253,6 +253,37 @@ gameMaps = [
   },
   {
     "name": [
+      "contra",
+      "contraj",
+      "contrajb",
+      "contra1",
+      "contrab",
+      "gryzor",
+      "gryzora",
+      "pc_cntra"
+    ],
+    "structure": {
+      "blocks": 8,
+      "fields": [
+        {"name": "name", "bytes": 3, "format": "fromCharMap": "settings": {
+            "charMap": "upper",
+            "offset": 11,
+            "special": {
+              "0F"= "!",
+              "0E"= "?",
+              "0D"= ".",
+              "10"= " ",
+              "2B"= "’"
+            }
+          }
+        },
+        {"name": "trash", "bytes": 1},
+        {"name": "score", "bytes": 4, "format": "asIs"}
+      ]
+    }
+  },
+  {
+    "name": [
       "dangar",
       "dangar2",
       "dangarb"

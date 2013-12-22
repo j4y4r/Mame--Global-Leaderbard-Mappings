@@ -512,6 +512,56 @@ gameInfos = [
     }
   },
   {
+    "name": "contra",
+    "fullName": "Contra (US, set 1)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "contra1",
+    "fullName": "Contra (US, set 2)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "contrab",
+    "fullName": "Contra (bootleg)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "contraj",
+    "fullName": "Contra (Japan)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "contrajb",
+    "fullName": "Contra (Japan bootleg)",
+    "letter": "c",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "dangar",
     "fullName": "Dangar - Ufo Robo (12/1/1986)",
     "letter": "d",
@@ -796,6 +846,26 @@ gameInfos = [
     "fullName": "Galaga '88 (Japan)",
     "letter": "g",
     "order": ["score", "name", "stage", "dimension"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "gyzor",
+    "fullName": "Gryzor (set 1)",
+    "letter": "g",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "gyzora",
+    "fullName": "Gryzor (set 2)",
+    "letter": "g",
+    "order": ["score", "name"],
     "sort": {
       "by": "score",
       "order": "desc"
@@ -1188,6 +1258,16 @@ gameInfos = [
     "fullName": "Pang (bootleg, set 3)",
     "letter": "p",
     "order": ["score", "name", "stage"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "pc_cntra",
+    "fullName": "Contra (PlayChoice-10)",
+    "letter": "c",
+    "order": ["score", "name"],
     "sort": {
       "by": "score",
       "order": "desc"
