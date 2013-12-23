@@ -160,6 +160,21 @@ gameMaps = [
   },
   {
     "name": [
+      "bionicc",
+      "bionicc1",
+      "bionicc2"
+    ],
+    "structure": {
+      "blocks": 10,
+      "fields": [
+        {"name": "score", "bytes": 4, "format": "asIs"},
+        {"name": "name", "bytes": 3, "format": "ascii"},
+        {"name": "trash", "bytes": 1},
+      ]
+    }
+  },
+  {
+    "name": [
       "blazeon"
     ],
     "structure": {

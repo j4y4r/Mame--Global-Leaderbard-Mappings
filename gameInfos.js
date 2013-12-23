@@ -372,6 +372,36 @@ gameInfos = [
     }
   },
   {
+    "name": "bionicc",
+    "fullName": "Bionic Commando (Euro)",
+    "letter": "b",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "bionicc1",
+    "fullName": "Bionic Commando (US set 1)",
+    "letter": "b",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "bionicc2",
+    "fullName": "Bionic Commando (US set 2)",
+    "letter": "b",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "blazeon",
     "fullName": "Blaze On (Japan)",
     "letter": "b",
