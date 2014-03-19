@@ -542,7 +542,9 @@ gameMaps = [
         {"name": "score", "bytes": 3, "format": "asIs", "settings": { "append": "0"}},
         {"name": "name", "bytes": 10, "format": "ascii", "settings": {
             "special": {
-              "2E": "&nbsp;"
+              "2E": " ",
+	      "24": ".",
+	      "5C": "♥"
             }
           }
         }

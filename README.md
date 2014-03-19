@@ -1,4 +1,4 @@
-#### MAMA: GLobal Leaderboard Mappings
+#### MAME: GLobal Leaderboard Mappings
 
 ##### Add a game
 
