@@ -907,6 +907,52 @@ gameMaps = [
   },
   {
     "name": [
+      "tengai",
+      "tengaij"
+    ],
+    "structure": {
+      "blocks": 6,
+      "fields": [
+        {"name": "name", "bytes": 3, "format": "ascii"},
+        {"name": "trash", "bytes": 2},
+        {"name": "char", "bytes": 1, "format": "specialOnly", "settings": {
+          "special": {
+            "00": "Miko",
+            "01": "Tengai",
+	    "02": "Katana",
+            "03": "Sho",
+            "04": "Junis",
+            "05": "Ayin",
+            }
+	  }
+        },
+        {"name": "trash", "bytes": 1},
+	{"name": "stage", "bytes": 1, "format": "specialOnly", "settings": {
+          "special": {
+            "00": "1-1",
+            "01": "1-2",
+	    "02": "1-3",
+            "03": "1-4",
+            "04": "1-5",
+            "05": "1-6",
+            "06": "1-7",
+            "07": "2-1",
+            "08": "2-2",
+            "09": "2-3",
+            "0A": "2-4",
+            "0B": "2-5",
+            "0C": "2-6",
+            "0D": "ALL"
+            }
+          }
+        },
+        "name": "trash", "bytes": 1},
+        {"name": "score", "bytes": 4, "format": "hexToDecimal"}
+      ]
+    }
+  },
+  {
+    "name": [
       "pc_trjan",
       "trojan",
       "trojanj",

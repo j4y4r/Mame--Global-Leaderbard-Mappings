@@ -1694,6 +1694,26 @@ gameInfos = [
     }
   },
   {
+    "name": "tengai",
+    "fullName": "Tengai (World)",
+    "letter": "t",
+    "order": ["score", "name", "char", "stage"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+{
+    "name": "tengaij",
+    "fullName": "Sengoku Blade: Sengoku Ace Episode II / Tengai",
+    "letter": "t",
+    "order": ["score", "name", "char", "stage"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "trojan",
     "fullName": "Trojan (US)",
     "letter": "t",
