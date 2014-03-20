@@ -947,7 +947,7 @@ gameMaps = [
           }
         },
         "name": "trash", "bytes": 1},
-        {"name": "score", "bytes": 4, "format": "hexToDecimal"}
+        {"name": "score", "bytes": 3, "format": "hexToDecimal"}
       ]
     }
   },
