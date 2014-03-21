@@ -395,6 +395,90 @@ gameMaps = [
   },
   {
     "name": [
+      "espgal"
+    ],
+    "structure": {
+      "blocks": 4,
+      "fields": [
+        {"name": "trash", "bytes": 1},
+        {"name": "score", "bytes": 3, "format": "hextoDecimal", "settings": {"append": "0"}},
+        {"name": "trash", "bytes": 3},
+        {"name": "name", "bytes": 9, "format": "specialOnly", "settings": {
+            "ignoreBytes": [1,2,3,5,6,7]},
+            "special":{
+            "00"= "A",
+            "04"= "B",
+            "08"= "C",
+            "0C"= "D",
+            "10"= "E",
+            "14"= "F",
+            "18"= "G",
+            "1C"= "H",
+            "20"= "I",
+            "24"= "J",
+            "28"= "K",
+            "2C"= "L",
+            "30"= "M",
+            "34"= "N",
+            "38"= "O",
+            "3C"= "P",
+            "40"= "Q",
+            "44"= "R",
+            "48"= "S",
+            "4C"= "T",
+            "50"= "U",
+            "54"= "V",
+            "58"= "W",
+            "5C"= "X",
+            "60"= "Y",
+            "64"= "Z",
+            "68"= "."
+            }
+          }
+        },
+        {"name": "trash", "bytes": 3},
+        {"name": "stage", "bytes": 1, "format": "specialOnly", "settings": {
+            "special": {
+              "00": "1",
+              "01": "2",
+              "02": "3",
+              "03": "4",
+              "04": "5",
+              "05": "5",
+              "06": "ALL"
+            }
+          }
+        }
+        {"name": "trash", "bytes": 1},
+        {"name": "char", "bytes": 1, "format": "specialOnly", "settings": {
+            "special": {
+              "00": "Ageha",
+              "02": "Tateha"
+            }
+          }
+        },
+        {"name": "trash", "bytes": 1},
+        {"name": "continue", "bytes": 1, "format": "specialOnly", "settings": {
+            "special": {
+              "00": "no",
+              "01": "1",
+              "02": "2",
+              "03": "3",
+              "04": "4",
+              "05": "5",
+              "06": "6",
+              "07": "7",
+              "08": "8",
+              "09": "9",
+            }
+          }
+        },
+        {"name": "trash", "bytes": 2}
+      ]
+    }
+  },
+  {
+    "name": [
       "ffightj1",
       "ffightj2",
       "ffightj1",

@@ -752,6 +752,16 @@ gameInfos = [
     }
   },
   {
+    "name": "espgal",
+    "fullName": "Espgaluda (2003/10/15 Master Ver)",
+    "letter": "e",
+    "order": ["score", "name", "char", "stage", "continue"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "ffightj1",
     "fullName": "Final Fight (Japan 900112)",
     "letter": "f",
