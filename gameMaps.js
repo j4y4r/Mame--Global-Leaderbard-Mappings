@@ -591,7 +591,9 @@ gameMaps = [
   },
   {
     "name": [
-      "espgal"
+      "ket",
+      "keta",
+      "ketb"
     ],
     "structure": {
       "blocks": 4,
