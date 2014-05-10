@@ -13,7 +13,7 @@
 gameInfos = [
   {
     "name": "1943",
-    "fullName": "1943 - The Battle of Midway (US)",
+    "fullName": "1943: The Battle of Midway (Euro)",
     "letter": "special",
     "order": ["score", "name"],
     "sort": {
