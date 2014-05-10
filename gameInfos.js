@@ -1033,6 +1033,36 @@ gameInfos = [
     }
   },
   {
+    "name": "ket",
+    "fullName": "Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)",
+    "letter": "k",
+    "order": ["score", "name", "char", "stage", "continue"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "keta",
+    "fullName": "Ketsui: Kizuna Jigoku Tachi (2003/01/01 Master Ver.)",
+    "letter": "k",
+    "order": ["score", "name", "char", "stage", "continue"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "ketb",
+    "fullName": "Ketsui: Kizuna Jigoku Tachi (2003/01/01 Master Ver)",
+    "letter": "k",
+    "order": ["score", "name", "char", "stage", "continue"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "kungfub",
     "fullName": "Kung-Fu Master (bootleg set 1)",
     "letter": "k",
