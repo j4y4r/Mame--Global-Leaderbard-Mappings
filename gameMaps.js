@@ -124,6 +124,20 @@ gameMaps = [
   },
   {
     "name": [
+      "blswhstl",
+      "twinbee"
+    ],
+    "structure": {
+      "blocks": 10,
+      "fields": [
+        {"name": "score", "bytes": 4, "format": "asIs", "settings": {"append": "0"}},
+        {"name": "name", "bytes": 3, "format": "ascii"},
+        {"name": "trash", "bytes": 1}
+      ]
+    }
+  },
+  {
+    "name": [
       "bgaregga",
       "bgareggabl",
       "bgareggacn",

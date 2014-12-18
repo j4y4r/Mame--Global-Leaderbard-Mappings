@@ -292,6 +292,16 @@ gameInfos = [
     }
   },
   {
+    "name": "blswhstl",
+    "fullname": "Bells & Whistles (Version L)",
+    "letter": "b",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "bgaregga",
     "fullName": "Battle Garegga (Europe/USA/Japan/Asia) (Sat Feb 3 1996)",
     "letter": "b",
@@ -1776,6 +1786,16 @@ gameInfos = [
   {
     "name": "trojanr",
     "fullName": "Trojan (Romstar)",
+    "letter": "t",
+    "order": ["score", "name"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
+    "name": "twinbee",
+    "fullname": "TwinBee (ROM version)",
     "letter": "t",
     "order": ["score", "name"],
     "sort": {
