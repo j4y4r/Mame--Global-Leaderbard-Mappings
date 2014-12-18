@@ -854,7 +854,7 @@ gameInfos = [
   {
     "name": "ffightjh",
     "fullName": "Street Smart / Final Fight (Japan, hack)",
-    "letter": "f",
+    "letter": "s",
     "order": ["score", "name"],
     "sort": {
       "by": "score",
@@ -924,7 +924,7 @@ gameInfos = [
   {
     "name": "hcastlej",
     "fullName": "Akuma-Jou Dracula (Japan version P)",
-    "letter": "h",
+    "letter": "a",
     "order": ["score", "name", "stage"],
     "sort": {
       "by": "score",
@@ -1135,7 +1135,7 @@ gameInfos = [
   {
     "name": "lwingsj",
     "fullName": "Ares no Tsubasa (Japan)",
-    "letter": "l",
+    "letter": "a",
     "order": ["score", "name"],
     "sort": {
       "by": "score",
@@ -1236,7 +1236,7 @@ gameInfos = [
   {
     "name": "nspiritj",
     "fullName": "Saigo no Nindou (Japan)",
-    "letter": "n",
+    "letter": "s",
     "order": ["score", "name"],
     "sort": {
       "by": "score",
@@ -1706,7 +1706,7 @@ gameInfos = [
   {
     "name": "stratof",
     "fullName": "Raiga - Strato Fighter (US)",
-    "letter": "s",
+    "letter": "r",
     "order": ["score", "name"],
     "sort": {
       "by": "score",
