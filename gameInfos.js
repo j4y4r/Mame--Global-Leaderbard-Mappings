@@ -1534,6 +1534,16 @@ gameInfos = [
     }
   },
   {
+    "name": "sngkace",
+    "fullName": "Sengoku Ace (Japan)",
+    "letter": "s",
+    "order": ["score", "name", "stage", "ship"],
+    "sort": {
+      "by": "score",
+      "order": "desc"
+    }
+  },
+  {
     "name": "shinfz",
     "fullName": "Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)",
     "letter": "s",

@@ -932,6 +932,30 @@ gameMaps = [
   },
   {
     "name": [
+      "sngkace"
+    ],
+    "structure": {
+      "blocks": 10,
+      "fields": [
+        {"name": "score", "bytes": 4, "format": "hextodec"},
+        {"name": "name", "bytes": 5, "format": "ascii", "settings": {"ignoreBytes": [1,3]}},
+        {"name": "trash", "bytes": 4},
+        {"name": "ship", "bytes": 1, "format": "specialOnly", "settings":{
+          "special":{
+          "00":"Jane",
+          "01":"Tengai",
+	  "02":"Kenno",
+	  "03":"Miko",
+ 	  "04":"Flush",
+          "05":"Gen"
+          }
+        },
+        {"name": "trash", "bytes": 2}
+      ]
+    }
+  },
+  {
+    "name": [
       "mt_shnbi",
       "shinfz",
       "shinobi",
